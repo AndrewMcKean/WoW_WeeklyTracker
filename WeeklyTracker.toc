@@ -1,0 +1,8 @@
+## Interface: 110005
+## Version: 1.0.0
+## Title: Weekly Tracker
+## Notes: Addon to track number of keys found on characters / delver's bounty completion
+## Author: A.Mckean
+## SavedVariables: WeeklyTrackerDB
+
+WeeklyTracker.lua

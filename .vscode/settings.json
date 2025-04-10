@@ -1,0 +1,7 @@
+{
+  "Lua.diagnostics.globals": [
+    "UnitName",
+    "C_QuestLog",
+    "CreateFrame"
+  ]
+}
